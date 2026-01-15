@@ -3,6 +3,7 @@
 I'm Harshit Rao, a Information Technology graduate with a strong foundation in algorithms, software engineering, and machine learning.  
 
 I enjoy building reliable software systems, working close to the system level, and applying ML/NLP in real-world applications.   
+
 I’m currently focused on deepening my expertise in artificial intelligence and machine learning, while also exploring creative and experimental projects in Unity whenever I get the chance.
 
 ## 🧰 Tech Stack
