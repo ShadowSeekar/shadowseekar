@@ -3,7 +3,7 @@
 I'm Harshit Rao, a Information Technology graduate with a strong foundation in algorithms, software engineering, and machine learning.  
 I enjoy building reliable software systems, working close to the system level, and applying ML/NLP in real-world applications.
 
-## Tech Stack
+## 🧰 Tech Stack
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
