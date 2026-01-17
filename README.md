@@ -26,7 +26,7 @@ I’m currently focused on deepening my expertise in artificial intelligence and
 ![Lucidchart](https://img.shields.io/badge/Lucidchart-DB3340?style=for-the-badge&logo=lucidchart&logoColor=white)
 
 ## 🔗 Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-username/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/harshit-rao-837282268)
 <!--
 **ShadowSeekar/shadowseekar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
