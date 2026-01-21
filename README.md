@@ -27,6 +27,8 @@ I’m currently focused on deepening my expertise in artificial intelligence and
 
 ## 🔗 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshit-rao-837282268/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raoharshit2025@gmail.com)
+
 <!--
 **ShadowSeekar/shadowseekar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
